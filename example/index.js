@@ -1,3 +1,3 @@
 (() => {
-  console.log("example addon loaded!);
+  console.log("example addon loaded!");
 });
